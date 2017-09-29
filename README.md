@@ -1,2 +1,2 @@
-# Reunion-Sun-Rise-Set
-CSV file storing the sunrise and sunset times for La Réunion island 
+# Sunrise and Sunset Times for La Réunion island
+Stored in a CSV file.
